@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "python doc search",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Adds an omnibox command for fastly accessing the python std cdocs",
+    "description": "The description of the application"
+  }
+}
